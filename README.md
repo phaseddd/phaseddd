@@ -22,25 +22,10 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaseddd&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="260" />
-
 ## `> whoami` 🧬
 
-```yaml
-name: phaseddd
-class: Vibe Coder / Full-Stack AI Developer
-origin: China 🇨🇳
-since: 2017
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaseddd&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="280" />
 
-philosophy:
-  - "代码不是写出来的，是 vibe 出来的"
-  - "Prompt 即编程，AI 即编译器"
-  - "Ship fast, iterate faster"
-
-current_obsession:
-  - 用 Claude Code 构建一切
-  - 多 Agent 架构探索
-  - AI 工作流自动化
-```
+<img src="assets/whoami.svg" alt="phaseddd terminal-style whoami" width="670" />
 
 <br clear="right"/>
