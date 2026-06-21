@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Manifesto -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1200&color=FF5CA8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=980&height=88&lines=%E6%88%91%E4%B8%8D%E6%8A%8A%20AI%20%E5%BD%93%E9%AD%94%E6%B3%95%E6%8C%89%E9%92%AE%EF%BC%8C%E6%88%91%E6%8A%8A%20Agent%20%E5%BD%93%E5%9B%A2%E9%98%9F%E6%9D%A5%E7%AE%A1%E7%90%86%E3%80%82;%E6%88%91%E4%B8%8D%E6%98%AF%E8%AE%A9%20AI%20%E8%87%AA%E5%8A%A8%E6%9B%BF%E6%88%91%E5%81%9A%E4%BA%8B%EF%BC%8C%E8%80%8C%E6%98%AF%E5%9C%A8%E8%AE%BE%E8%AE%A1%E4%B8%80%E5%A5%97%20AI%20%E5%9B%A2%E9%98%9F%E7%9A%84%E7%BB%84%E7%BB%87%E6%96%B9%E5%BC%8F%E3%80%81%E4%B8%8A%E4%B8%8B%E6%96%87%E3%80%81%E5%88%86%E5%B7%A5%E3%80%81%E5%88%B6%E8%A1%A1%E5%92%8C%E9%AA%8C%E6%94%B6%E3%80%82" alt="AI agent manifesto in Chinese" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=980&height=88&lines=I%20do%20not%20hand%20work%20to%20AI.%20I%20design%20how%20agents%20work%20together.;Specs%2C%20context%2C%20roles%2C%20checks%2C%20and%20review%20turn%20them%20into%20a%20team%20that%20ships." alt="AI agent manifesto in English" />
+<img src="assets/manifesto.svg" alt="AI agent manifesto" width="980" />
 
 <br/>
 
