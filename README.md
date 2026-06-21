@@ -15,9 +15,11 @@
 &nbsp;
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 &nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=gnubash&logoColor=white)
 &nbsp;
-![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
+[![Pi](https://img.shields.io/badge/Pi-Agent_Harness-7C3AED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/earendil-works/pi)
+&nbsp;
+![Rust Journey](https://img.shields.io/badge/Rust_Journey-loading...-F46623?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
