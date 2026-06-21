@@ -17,7 +17,7 @@
 &nbsp;
 ![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=gnubash&logoColor=white)
 &nbsp;
-[![Pi](https://img.shields.io/badge/Pi-Agent_Harness-7C3AED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/earendil-works/pi)
+[![Pi](https://img.shields.io/badge/Pi-7C3AED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/earendil-works/pi)
 &nbsp;
 ![Rust Journey](https://img.shields.io/badge/Rust_Journey-loading...-F46623?style=for-the-badge&logo=rust&logoColor=white)
 
