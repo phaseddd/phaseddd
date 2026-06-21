@@ -12,6 +12,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=phaseddd&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 [![GitHub](https://img.shields.io/github/followers/phaseddd?label=Follow&style=for-the-badge&logo=github&color=161b22&logoColor=white)](https://github.com/phaseddd)
+&nbsp;
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+&nbsp;
+![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
