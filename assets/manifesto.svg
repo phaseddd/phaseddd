@@ -50,6 +50,6 @@
 
   <text class="line cn delay-1" x="490" y="42">我不把 AI 当魔法按钮，我把 Agent 当团队来管理。</text>
   <text class="line cn delay-2" x="490" y="76">我不是让 AI 自动替我做事，而是在设计一套 AI 团队的组织方式、上下文、分工、制衡和验收。</text>
-  <text class="line en delay-3" x="490" y="122">I do not hand work to AI. I design how agents work together.</text>
-  <text class="line en delay-4" x="490" y="156">Specs, context, roles, checks, and review turn them into a team that ships.</text>
+  <text class="line en delay-3" x="490" y="122">I don't treat AI as a magic button. I orchestrate agents as a team.</text>
+  <text class="line en delay-4" x="490" y="156">Specs, context, roles, checks, and acceptance make them a team that ships.</text>
 </svg>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Manifesto -->
-<img src="assets/manifesto.svg" alt="AI agent manifesto" width="980" />
+<img src="assets/manifesto.svg" alt="AI agent orchestration manifesto" width="980" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 &nbsp;
 [![Pi](https://img.shields.io/badge/Pi-7C3AED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/earendil-works/pi)
 &nbsp;
-![Rust Journey](https://img.shields.io/badge/Rust_Journey-loading...-F46623?style=for-the-badge&logo=rust&logoColor=white)
+![Rust Underway](https://img.shields.io/badge/Rust-underway-F46623?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 

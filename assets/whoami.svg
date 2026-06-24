@@ -40,21 +40,21 @@
   <text class="fg">
     <tspan x="24" y="30">phaseddd@github</tspan><tspan class="muted"> ---------------------------------------------</tspan>
 
-    <tspan x="24" y="58" class="muted">. </tspan><tspan class="key">Identity</tspan><tspan class="muted">: ............. </tspan><tspan class="value">Agent-Orchestration Developer</tspan>
+    <tspan x="24" y="58" class="muted">. </tspan><tspan class="key">Identity</tspan><tspan class="muted">: ............. </tspan><tspan class="value">AI Agent Orchestration Developer</tspan>
     <tspan x="24" y="80" class="muted">. </tspan><tspan class="key">Origin</tspan><tspan class="muted">: ............... </tspan><tspan class="value">Guangzhou, China</tspan>
     <tspan x="24" y="102" class="muted">. </tspan><tspan class="key">Since</tspan><tspan class="muted">: ................ </tspan><tspan class="value">2017-07-08</tspan>
-    <tspan x="24" y="124" class="muted">. </tspan><tspan class="key">Mode</tspan><tspan class="muted">: ................. </tspan><tspan class="value">Human-in-the-loop systems builder</tspan>
+    <tspan x="24" y="124" class="muted">. </tspan><tspan class="key">Mode</tspan><tspan class="muted">: ................. </tspan><tspan class="value">Human-in-the-Loop Systems Builder</tspan>
 
     <tspan x="24" y="158">- Agent Workbench</tspan><tspan class="muted"> -----------------------------------------</tspan>
     <tspan x="24" y="186" class="muted">. </tspan><tspan class="key">Principle</tspan><tspan class="muted">: ............ </tspan><tspan class="value">agents are teammates, not buttons</tspan>
     <tspan x="24" y="208" class="muted">. </tspan><tspan class="key">Blueprint</tspan><tspan class="muted">: ............ </tspan><tspan class="value">specs before execution</tspan>
-    <tspan x="24" y="230" class="muted">. </tspan><tspan class="key">Context</tspan><tspan class="muted">: .............. </tspan><tspan class="value">restatement, isolation, memory</tspan>
+    <tspan x="24" y="230" class="muted">. </tspan><tspan class="key">Context</tspan><tspan class="muted">: .............. </tspan><tspan class="value">briefs, isolation, memory</tspan>
     <tspan x="24" y="252" class="muted">. </tspan><tspan class="key">Control</tspan><tspan class="muted">: .............. </tspan><tspan class="value">roles, checks, review, acceptance</tspan>
 
     <tspan x="24" y="286">- Current Stack</tspan><tspan class="muted"> ------------------------------------------</tspan>
-    <tspan x="24" y="314" class="muted">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Home</tspan><tspan class="muted">: ..... </tspan><tspan class="value">Java, TypeScript, Python</tspan>
-    <tspan x="24" y="336" class="muted">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Now</tspan><tspan class="muted">: ...... </tspan><tspan class="value">Rust in progress, GPUI, CLI tools</tspan>
+    <tspan x="24" y="314" class="muted">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Core</tspan><tspan class="muted">: ..... </tspan><tspan class="value">Java, TypeScript, Python</tspan>
+    <tspan x="24" y="336" class="muted">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Now</tspan><tspan class="muted">: ...... </tspan><tspan class="value">Rust underway, GPUI, CLI tools</tspan>
     <tspan x="24" y="358" class="muted">. </tspan><tspan class="key">GitHub</tspan>.<tspan class="key">Repos</tspan><tspan class="muted">: ...... </tspan><tspan class="value">37 public</tspan><tspan class="fg"> {</tspan><tspan class="good">10 original</tspan><tspan class="fg"> | 27 forks}</tspan>
-    <tspan x="24" y="380" class="muted">. </tspan><tspan class="key">GitHub</tspan>.<tspan class="key">Stars</tspan><tspan class="muted">: ...... </tspan><tspan class="value">107 earned</tspan><tspan class="fg"> | </tspan><tspan class="value">416 starred</tspan><tspan class="fg"> | Followers: </tspan><tspan class="value">7</tspan>
+    <tspan x="24" y="380" class="muted">. </tspan><tspan class="key">GitHub</tspan>.<tspan class="key">Stars</tspan><tspan class="muted">: ...... </tspan><tspan class="value">107 earned</tspan><tspan class="fg"> | </tspan><tspan class="value">416 given</tspan><tspan class="fg"> | Followers: </tspan><tspan class="value">7</tspan>
   </text>
 </svg>
