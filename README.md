@@ -30,7 +30,7 @@
       <img src="assets/whoami.svg" alt="phaseddd terminal-style whoami" width="610" />
     </td>
     <td width="310" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaseddd&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Most used languages" width="310" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=phaseddd&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Most used languages" width="310" />
     </td>
   </tr>
 </table>
